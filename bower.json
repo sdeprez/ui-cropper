@@ -28,7 +28,7 @@
 	},
 	"description": "Image crop directive for AngularJS, square, circle and rectangle areas. Working with aspects.",
 	"main": [
-		"compile/minified/ui-cropper.js",
+		"compile/unminified/ui-cropper.js",
 		"compile/minified/ui-cropper.css"
 	],
 	"keywords": [
